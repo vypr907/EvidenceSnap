@@ -918,7 +918,9 @@ These decisions are not final yet.
 - Should schemas be stored per workspace, per repo, or both?
 - When should OSCAL mapping begin?
 - Should template packs live in this repo or a separate public template repo?
-- Current Recommended Next Steps
+ 
+
+## Current Recommended Next Steps
 - Create repository with README.md and AI_CONTEXT.md.
 - Add ```/docs/product/vision.md```.
 - Add ```/docs/architecture/data-model.md```.
